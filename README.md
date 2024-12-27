@@ -1,2 +1,2 @@
 # hello-world
-Este repositório é para praticar o fluxo do GitHub.
+Olá mundo, meu nome é José e estou aprendendo a usar essa plataforma.
